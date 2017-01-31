@@ -27,7 +27,7 @@ Examples of controllers:
 
 - [Ledenet WiFi RGBW Controller](https://www.amazon.com/gp/product/B01DY56N8U)
 - [SUPERNIGHT WiFi Wireless LED Smart Controller](https://www.amazon.com/dp/B01JZ2SI6Q)
-
+- [Arilux Led controllers](http://www.banggood.com/ARILUX-AL-LC01-Super-Mini-LED-WIFI-Smart-RGB-Controller-For-RGB-LED-Strip-Light-DC-9-12V-p-1058603.html)
 
 To enable those lights, add the following lines to your `configuration.yaml` file:
 
