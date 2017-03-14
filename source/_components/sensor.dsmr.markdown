@@ -15,7 +15,7 @@ ha_iot_class: "Local Push"
 
 A sensor platform for Dutch Smart Meters which comply to DSMR (Dutch Smart Meter Requirements), also known as 'Slimme meter' or 'P1 poort'.
 
-Currently support DSMR V2.2 and V4 through the [dsmr_parser](https://github.com/ndokter/dsmr_parser) module by Nigel Dokter.
+Currently supports DSMR 2, 3, 4 and 5 (with CRC) through the [dsmr_parser](https://github.com/ndokter/dsmr_parser) module by Nigel Dokter.
 
 For official information about DSMR refer to: [DSMR Document](http://www.netbeheernederland.nl/themas/hotspot/hotspot-documenten/?dossierid=11010056&title=Slimme%20meter&onderdeel=Documenten)
 
