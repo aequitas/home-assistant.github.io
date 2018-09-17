@@ -52,7 +52,9 @@ The OpenTherm protocol is based on polling. The thermostat sends requests to the
 
 # {% linkable_title Example %}
 
-A full configuration example with the OpenTherm Gateway connected to a remote host running `ser2net` looks like the one below.
+A full configuration example with the OpenTherm Gateway connected to a remote host running `ser2net` or [OpenTherm Monitor](http://otgw.tclcode.com/otmonitor.html) looks like the one below.
+
+For Opentherm Monitor make sure 'Remote Access -> Enable relay server' is enabled. 
 
 ```yaml
 # Full example configuration.yaml entry
